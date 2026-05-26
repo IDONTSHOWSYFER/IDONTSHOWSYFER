@@ -17,7 +17,7 @@
 ```
 
 <a href="https://github.com/IDONTSHOWSYFER">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&width=760&height=100&lines=%3E+Identity%3A+Syfer+%2F%2F+0x+%E2%80%94+ghost+in+the+shell;%3E+Stack%3A+TS+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+Postgres+%E2%80%A2+Docker;%3E+Mission%3A+Ship+code.+Stay+anon.+Break+systems." alt="Matrix Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&width=760&height=100&lines=%3E+Identity%3A+Syfer+%2F%2F+0x+%E2%80%94+ghost+in+the+shell;%3E+Mission%3A+Ship+code.+Stay+anon.+Break+systems." alt="Matrix Typing" />
 </a>
 
 </div>
