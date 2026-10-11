@@ -10,19 +10,7 @@
 
 ## Start here
 
-- [LamaLinkedIn](https://github.com/IDONTSHOWSYFER/LamaLinkedIn) ★2: Lama LinkedIn is a Chrome extension that boosts LinkedIn prospecting with a guided mode and an agent-assisted mode: like highlighting, smart comment/m
-
 - [GTRX](https://github.com/IDONTSHOWSYFER/GTRX) ★2: Introducing $GTRX, the revolutionary MemeCoin on the Tron blockchain, launched on SunPump ! Join the movement, embrace the power of memes, and be part
-
-- [IDONTSHOWSYFER](https://github.com/IDONTSHOWSYFER/IDONTSHOWSYFER) ★1: Source code and documentation
-
-- [Syfer](https://github.com/IDONTSHOWSYFER/Syfer) ★1: Source code and documentation
-
-- [WakuWaku](https://github.com/IDONTSHOWSYFER/WakuWaku) ★1: Waku Waku is a manga library web app: browse/search titles, view details, and track your collection with reading status, ratings, and reviews.
-
-- [Swag](https://github.com/IDONTSHOWSYFER/Swag) ★1: Too swag to explain
-
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/top-stars-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/top-stars-light.svg"/><img alt="Most starred repositories" src="./assets/top-stars-light.svg" width="100%"/></picture></p>
 
 ## By the numbers
 
@@ -36,15 +24,9 @@
 
 ## All repositories
 
-- [babyshib](https://github.com/IDONTSHOWSYFER/babyshib) ★0: BABY SHIB ($BABYSHIB) — community-run Solana memecoin. Live landing page.
-
-- [GCT](https://github.com/IDONTSHOWSYFER/GCT) ★0: Grumpycator is a fun platform to create, customize, and save your own grumpy cat. Use playful tools to design unique and quirky feline frien
+- [Babyshib](https://github.com/IDONTSHOWSYFER/babyshib) ★0: BABY SHIB ($BABYSHIB) — community-run Solana memecoin. Live landing page.
 
 - [GTRX](https://github.com/IDONTSHOWSYFER/GTRX) ★2: Introducing $GTRX, the revolutionary MemeCoin on the Tron blockchain, launched on SunPump ! Join the movement, embrace the power of memes, a
-
-- [IDONTSHOWSYFER](https://github.com/IDONTSHOWSYFER/IDONTSHOWSYFER) ★1: 
-
-- [LamaLinkedIn](https://github.com/IDONTSHOWSYFER/LamaLinkedIn) ★2: Lama LinkedIn is a Chrome extension that boosts LinkedIn prospecting with a guided mode and an agent-assisted mode: like highlighting, smart
 
 - [Lilpump](https://github.com/IDONTSHOWSYFER/Lilpump) ★0: ESSKEETIT - Ultra-smooth, animated one-page site for Lil Pump’s $LILPUMP memecoin on Solana. Dark-rose &amp; dark-green rap aesthetic, scroll-tr
 
