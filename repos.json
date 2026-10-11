@@ -1,0 +1,121 @@
+[
+  {
+    "name": "LamaLinkedIn",
+    "url": "https://github.com/IDONTSHOWSYFER/LamaLinkedIn",
+    "description": "Lama LinkedIn is a Chrome extension that boosts LinkedIn prospecting with a guided mode and an agent-assisted mode: like highlighting, smart comment/message suggestions, one-click fill with user validation, persistent sessions, stats & history.",
+    "stars": 2,
+    "language": "TypeScript"
+  },
+  {
+    "name": "GTRX",
+    "url": "https://github.com/IDONTSHOWSYFER/GTRX",
+    "description": "Introducing $GTRX, the revolutionary MemeCoin on the Tron blockchain, launched on SunPump ! Join the movement, embrace the power of memes, and be part of the next big crypto wave. Don’t miss out – the future of fun and profit starts with $GTRX !",
+    "stars": 2,
+    "language": "HTML"
+  },
+  {
+    "name": "IDONTSHOWSYFER",
+    "url": "https://github.com/IDONTSHOWSYFER/IDONTSHOWSYFER",
+    "description": null,
+    "stars": 1,
+    "language": "Python"
+  },
+  {
+    "name": "Syfer",
+    "url": "https://github.com/IDONTSHOWSYFER/Syfer",
+    "description": null,
+    "stars": 1,
+    "language": "TypeScript"
+  },
+  {
+    "name": "WakuWaku",
+    "url": "https://github.com/IDONTSHOWSYFER/WakuWaku",
+    "description": "Waku Waku is a manga library web app: browse/search titles, view details, and track your collection with reading status, ratings, and reviews.",
+    "stars": 1,
+    "language": "TypeScript"
+  },
+  {
+    "name": "Swag",
+    "url": "https://github.com/IDONTSHOWSYFER/Swag",
+    "description": "Too swag to explain",
+    "stars": 1,
+    "language": "JavaScript"
+  },
+  {
+    "name": "WeatherAPI",
+    "url": "https://github.com/IDONTSHOWSYFER/WeatherAPI",
+    "description": "WeatherAPI est une API REST développée avec Node.js et Express.js, permettant de récupérer des données météorologiques en temps réel. Ce projet a pour objectif de fournir des informations telles que la température, l’humidité, la vitesse du vent et les conditions générales selon la ville demandée.",
+    "stars": 1,
+    "language": "TypeScript"
+  },
+  {
+    "name": "babyshib",
+    "url": "https://github.com/IDONTSHOWSYFER/babyshib",
+    "description": "BABY SHIB ($BABYSHIB) — community-run Solana memecoin. Live landing page.",
+    "stars": 0,
+    "language": "HTML"
+  },
+  {
+    "name": "CV",
+    "url": "https://github.com/IDONTSHOWSYFER/CV",
+    "description": "This is a description",
+    "stars": 0,
+    "language": "HTML"
+  },
+  {
+    "name": "Rust-Forge",
+    "url": "https://github.com/IDONTSHOWSYFER/Rust-Forge",
+    "description": null,
+    "stars": 0,
+    "language": "JavaScript"
+  },
+  {
+    "name": "TheKitchen",
+    "url": "https://github.com/IDONTSHOWSYFER/TheKitchen",
+    "description": "Expérimentation sur le multithreading en Node.js avec les worker_threads pour gérer des tâches de calcul intensives sans bloquer le serveur principal.",
+    "stars": 0,
+    "language": "JavaScript"
+  },
+  {
+    "name": "FishMarket",
+    "url": "https://github.com/IDONTSHOWSYFER/FishMarket",
+    "description": "Ce projet démontre la maîtrise de l'isolation des environnements, de la configuration de ports réseaux, ainsi que le cycle de déploiement de conteneurs légers dans un cadre professionnel. 🐟",
+    "stars": 0,
+    "language": "JavaScript"
+  },
+  {
+    "name": "Lilpump",
+    "url": "https://github.com/IDONTSHOWSYFER/Lilpump",
+    "description": "ESSKEETIT - Ultra-smooth, animated one-page site for Lil Pump’s $LILPUMP memecoin on Solana. Dark-rose & dark-green rap aesthetic, scroll-triggered visuals, integrated socials, and a subtle BC.GAME nod.",
+    "stars": 0,
+    "language": "HTML"
+  },
+  {
+    "name": "Lust",
+    "url": "https://github.com/IDONTSHOWSYFER/Lust",
+    "description": "Lust is a professional website for photographer Esteban Luiz, offering an elegant interface to showcase galleries, manage portfolios, and allow clients to explore services and previous work. The project focuses on user experience and visual presentation, with a responsive design and secure backend to handle multimedia content.",
+    "stars": 0,
+    "language": "HTML"
+  },
+  {
+    "name": "Love",
+    "url": "https://github.com/IDONTSHOWSYFER/Love",
+    "description": "$LOVE is a memecoin born to paint the blockchain pink ! Join our diamond-handed tribe as we pump PVE-style gains, drop epic memes & airdrops, and spread love everywhere.",
+    "stars": 0,
+    "language": "HTML"
+  },
+  {
+    "name": "GCT",
+    "url": "https://github.com/IDONTSHOWSYFER/GCT",
+    "description": "Grumpycator is a fun platform to create, customize, and save your own grumpy cat. Use playful tools to design unique and quirky feline friends. Perfect for cat lovers and those seeking lighthearted entertainment. Start crafting your grumpy masterpiece today !",
+    "stars": 0,
+    "language": "JavaScript"
+  },
+  {
+    "name": "W3bCreation",
+    "url": "https://github.com/IDONTSHOWSYFER/W3bCreation",
+    "description": "W3bCreation elevates your online presence with cutting-edge web solutions. Experience a modern design, dynamic conversion funnels, and engaging customer testimonials that boost trust and drive growth. Transform your digital journey with W3bCreation today.",
+    "stars": 0,
+    "language": "JavaScript"
+  }
+]
