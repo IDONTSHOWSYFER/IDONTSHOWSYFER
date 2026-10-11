@@ -1,6 +1,6 @@
 <h1 align="center">Syfer</h1>
 
-<p align="center"><b>I build open-source software: AI agents, MCP servers, 3D, on-chain tooling and developer tools.</b><br/>20 public repositories, each documented for people and for AI agents.</p>
+<p align="center"><b>I build open-source software: AI agents, MCP servers, Web3, on-chain tooling and developer tools.</b><br/>20 public repositories, each documented for people and for AI agents.</p>
 
 <p align="center">
 <a href="https://github.com/idontshowsyfer?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/idontshowsyfer?style=for-the-badge&logo=github&label=followers"/></a>
@@ -8,9 +8,14 @@
 <a href="https://github.com/idontshowsyfer?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-20-6250d6?style=for-the-badge&logo=github"/></a>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="20 repositories" src="./assets/stats-light.svg" width="100%"/></picture></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idontshowsyfer&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idontshowsyfer&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/planet-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/planet-light.svg"/><img alt="A rotating 3D planet with one point per repository" src="./assets/planet-light.svg" width="100%"/></picture></p>
+<p align="center">
+  <img alt="3D Contribution Graph" src="https://github-profile-3d-contrib.puppetcel.workers.dev?username=idontshowsyfer&theme=dark" width="100%" />
+</p>
 
 ## Start here
 
@@ -18,19 +23,11 @@
 - [Front-Forge](https://github.com/idontshowsyfer/Front-Forge) ★8: High-performance WebAssembly front-end project built with Rust and the Yew framework.
 - [XActions](https://github.com/idontshowsyfer/XActions) ★5: ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, CLI, browser scripts and automations.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/top-stars-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/top-stars-light.svg"/><img alt="The most-starred repositories on a log scale" src="./assets/top-stars-light.svg" width="100%"/></picture>
-
 ## By the numbers
 
-Every chart below is rendered from the live GitHub listing each time the catalog is rebuilt, so the numbers are always current.
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/city-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/city-light.svg"/><img alt="An isometric city with one tower per repository" src="./assets/city-light.svg" width="100%"/></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/growth-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/growth-light.svg"/><img alt="Cumulative repositories over time" src="./assets/growth-light.svg" width="100%"/></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg"/><img alt="A spinning 3D donut of primary languages" src="./assets/languages-light.svg" width="100%"/></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/punchcard-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/punchcard-light.svg"/><img alt="Punchcard of when repositories were created" src="./assets/punchcard-light.svg" width="100%"/></picture>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idontshowsyfer&theme=dark&hide_border=true" width="100%" />
+</p>
 
 ## Find your way
 
