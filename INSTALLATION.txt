@@ -1,0 +1,17 @@
+SYFER GITHUB PROFILE — INSTALLATION
+
+1. Create/open the PUBLIC GitHub repository IDONTSHOWSYFER/IDONTSHOWSYFER.
+2. Open Add file > Upload files.
+3. Extract this ZIP on your computer FIRST.
+4. Drag the README.md and the folders scripts and .github (not the ZIP) to the upload area.
+   NOTE: Some browsers/GitHub upload views do not preserve hidden folders or nested paths.
+   Check that .github/workflows/update-profile.yml and scripts/build.py appear at the right paths.
+   If folder drag-and-drop fails, use a local Git client (GitHub Desktop) or Git CLI to push the extracted folder.
+5. Commit changes.
+6. Settings > Actions > General > Workflow permissions: Read and write permissions.
+7. Actions > Update Syfer profile > Run workflow.
+8. After the workflow succeeds, the README, repos.json and 14 assets/*.svg are committed.
+
+The graphics are generated in your GitHub repo, not hosted on a third-party SVG server.
+The graphics are inspired by nirholas; they are not exact copies of his 3D graphics.
+Badges from shields.io are third-party hosted (not the generated SVG charts).
