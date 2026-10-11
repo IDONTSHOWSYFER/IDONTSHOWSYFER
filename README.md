@@ -38,10 +38,6 @@
 
 - [babyshib](https://github.com/IDONTSHOWSYFER/babyshib) ★0: BABY SHIB ($BABYSHIB) — community-run Solana memecoin. Live landing page.
 
-- [CV](https://github.com/IDONTSHOWSYFER/CV) ★0: This is a description
-
-- [FishMarket](https://github.com/IDONTSHOWSYFER/FishMarket) ★0: Ce projet démontre la maîtrise de l&#x27;isolation des environnements, de la configuration de ports réseaux, ainsi que le cycle de déploiement de
-
 - [GCT](https://github.com/IDONTSHOWSYFER/GCT) ★0: Grumpycator is a fun platform to create, customize, and save your own grumpy cat. Use playful tools to design unique and quirky feline frien
 
 - [GTRX](https://github.com/IDONTSHOWSYFER/GTRX) ★2: Introducing $GTRX, the revolutionary MemeCoin on the Tron blockchain, launched on SunPump ! Join the movement, embrace the power of memes, a
@@ -52,23 +48,7 @@
 
 - [Lilpump](https://github.com/IDONTSHOWSYFER/Lilpump) ★0: ESSKEETIT - Ultra-smooth, animated one-page site for Lil Pump’s $LILPUMP memecoin on Solana. Dark-rose &amp; dark-green rap aesthetic, scroll-tr
 
-- [Love](https://github.com/IDONTSHOWSYFER/Love) ★0: $LOVE is a memecoin born to paint the blockchain pink ! Join our diamond-handed tribe as we pump PVE-style gains, drop epic memes &amp; airdrops
-
-- [Lust](https://github.com/IDONTSHOWSYFER/Lust) ★0: Lust is a professional website for photographer Esteban Luiz, offering an elegant interface to showcase galleries, manage portfolios, and al
-
-- [Rust-Forge](https://github.com/IDONTSHOWSYFER/Rust-Forge) ★0: 
-
-- [Swag](https://github.com/IDONTSHOWSYFER/Swag) ★1: Too swag to explain
-
 - [Syfer](https://github.com/IDONTSHOWSYFER/Syfer) ★1: 
-
-- [TheKitchen](https://github.com/IDONTSHOWSYFER/TheKitchen) ★0: Expérimentation sur le multithreading en Node.js avec les worker_threads pour gérer des tâches de calcul intensives sans bloquer le serveur 
-
-- [W3bCreation](https://github.com/IDONTSHOWSYFER/W3bCreation) ★0: W3bCreation elevates your online presence with cutting-edge web solutions. Experience a modern design, dynamic conversion funnels, and engag
-
-- [WakuWaku](https://github.com/IDONTSHOWSYFER/WakuWaku) ★1: Waku Waku is a manga library web app: browse/search titles, view details, and track your collection with reading status, ratings, and review
-
-- [WeatherAPI](https://github.com/IDONTSHOWSYFER/WeatherAPI) ★1: WeatherAPI est une API REST développée avec Node.js et Express.js, permettant de récupérer des données météorologiques en temps réel. Ce pro
 
 ## Say hi
 
