@@ -1,87 +1,103 @@
 <h1 align="center">Syfer</h1>
 
-<p align="center"><b>I build open-source software: Web3, Solana tooling, AI agents, Rust/Wasm apps and developer tools.</b><br/>20 public repositories, built for performance and automation.</p>
-
 <p align="center">
-<a href="https://github.com/idontshowsyfer?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/idontshowsyfer?style=for-the-badge&logo=github&label=followers&color=18181b"/></a>
-<a href="https://github.com/idontshowsyfer?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/idontshowsyfer?affiliations=OWNER&style=for-the-badge&logo=github&label=stars&color=18181b"/></a>
-<a href="https://github.com/idontshowsyfer?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-20-6250d6?style=for-the-badge&logo=github"/></a>
-<a href="https://x.com/0xSyfer"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-0xSyfer-000000?style=for-the-badge&logo=x"/></a>
+  <b>Developer · Web Applications · AI · Crypto</b>
+  <br/>
+  Building and exploring software, from web applications to on-chain technologies.
 </p>
 
----
-
-## ⚡ Tech Stack & Core Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,rust,python,react,nextjs,nodejs,postgres,prisma,docker,git,vscode,tailwind&perline=6" alt="Tech Stack"/>
+  <a href="https://github.com/IDONTSHOWSYFER?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/IDONTSHOWSYFER?style=for-the-badge&logo=github&label=followers"/>
+  </a>
+  <a href="https://github.com/IDONTSHOWSYFER?tab=repositories&sort=stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/IDONTSHOWSYFER?affiliations=OWNER&style=for-the-badge&logo=github&label=stars"/>
+  </a>
+  <a href="https://github.com/IDONTSHOWSYFER?tab=repositories">
+    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-Explore-6250d6?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://x.com/0xSyfer">
+    <img alt="X" src="https://img.shields.io/badge/X-0xSyfer-000000?style=for-the-badge&logo=x"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/>
+    <img alt="Syfer GitHub statistics" src="./assets/stats-light.svg" width="100%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/planet-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/planet-light.svg"/>
+    <img alt="Syfer GitHub repository planet" src="./assets/planet-light.svg" width="100%"/>
+  </picture>
+</p>
 
 ## Start here
 
-- [traceon](https://github.com/idontshowsyfer/traceon) — Automated Telegram bot & Web3 data tracking platform integrated with local LLMs and real-time execution alerts.
-- [Front-Forge](https://github.com/idontshowsyfer/Front-Forge) — High-performance WebAssembly front-end project built with Rust and the Yew framework.
-- [XActions](https://github.com/idontshowsyfer/XActions) — ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, CLI scripts, and browser automations.
+Explore my projects, experiments and open-source work.
 
----
+<!-- START_PROJECTS -->
+<!-- END_PROJECTS -->
 
-## Repositories Index
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/top-stars-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/top-stars-light.svg"/>
+  <img alt="Most starred repositories" src="./assets/top-stars-light.svg" width="100%"/>
+</picture>
 
-- [Web3 & Solana Tooling](#web3--solana-tooling)
-- [AI Agents & Bots](#ai-agents--bots)
-- [Rust & WebAssembly](#rust--webassembly)
-- [Developer Utilities & Scripts](#developer-utilities--scripts)
+## By the numbers
 
-### Web3 & Solana Tooling
+A visual overview of my public GitHub repositories, generated from GitHub data.
 
-<details open>
-<summary>5 repositories</summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/city-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/city-light.svg"/>
+  <img alt="Isometric repository city" src="./assets/city-light.svg" width="100%"/>
+</picture>
 
-- [traceon](https://github.com/idontshowsyfer/traceon): Automated Telegram bot & Web3 data tracking platform.
-- **solana-tools**: Smart contract interactions, token tracking, and DEX mechanics utilities.
-- **web3-wallet-sync**: Hardware wallet helper scripts and secure connection flows.
-- **dex-analyzer**: Automated market data scrapers and liquidity pool analytics.
-- **token-tracker**: Real-time event monitor for token creation and volume spikes.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/growth-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/growth-light.svg"/>
+  <img alt="Repository growth over time" src="./assets/growth-light.svg" width="100%"/>
+</picture>
 
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg"/>
+  <img alt="Programming languages" src="./assets/languages-light.svg" width="100%"/>
+</picture>
 
-### AI Agents & Bots
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/punchcard-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/punchcard-light.svg"/>
+  <img alt="Repository creation activity" src="./assets/punchcard-light.svg" width="100%"/>
+</picture>
 
-<details open>
-<summary>4 repositories</summary>
+## Repositories
 
-- **telegram-bot-suite**: Modular framework for high-performance Telegram bots with command parsers.
-- **local-llm-bridge**: Lightweight connector to query local models via custom pipelines.
-- **agent-automation**: Task execution loops and webhook listeners for autonomous workflows.
-- **chat-logger**: Structured logging and data extraction utility for conversational agents.
+My public repositories, automatically listed and organized.
 
-</details>
+<!-- START_REPOSITORIES -->
+<!-- END_REPOSITORIES -->
 
-### Rust & WebAssembly
+## Say hi
 
-<details open>
-<summary>3 repositories</summary>
+Interested in my work or want to collaborate?
 
-- [Front-Forge](https://github.com/idontshowsyfer/Front-Forge): WebAssembly front-end architecture built with Yew and Cargo.
-- **rust-utils**: Collection of helper crates for fast data manipulation and parsing.
-- **wasm-boilerplate**: Quick-start template for high-speed client-side Rust applications.
+<p align="center">
+  <a href="https://github.com/IDONTSHOWSYFER">
+    <img src="https://img.shields.io/badge/GitHub-IDONTSHOWSYFER-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/0xSyfer">
+    <img src="https://img.shields.io/badge/X-0xSyfer-000000?style=for-the-badge&logo=x" alt="X"/>
+  </a>
+</p>
 
-</details>
-
-### Developer Utilities & Scripts
-
-<details open>
-<summary>8 repositories</summary>
-
-- [XActions](https://github.com/idontshowsyfer/XActions): The complete automation toolkit: scrapers, CLI, and browser helper scripts.
-- **dotfiles**: macOS environment configuration, VS Code setup, and shell scripts.
-- **py-automation**: Python data processing and workflow extraction scripts.
-- **api-gateway**: Lightweight REST API router with TypeScript and Zod validation.
-- **db-migrate**: Database management scripts for PostgreSQL and Prisma ORM.
-- **ci-pipelines**: Reusable GitHub Actions workflows for continuous integration.
-- **dev-logger**: Simple, colorful console logging utility for Node.js.
-- **quick-scrapper**: Minimalist web scraping script with fast response handling.
-
-</details>
+<p align="center">
+  <sub>Built from real GitHub data · Updated automatically</sub>
+</p>
