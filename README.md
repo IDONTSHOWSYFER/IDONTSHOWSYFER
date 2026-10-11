@@ -1,224 +1,102 @@
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                   ░▒▓█ MATRIX HEADER █▓▒░                            -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<h1 align="center">Syfer</h1>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=240&section=header&text=SYFER&fontSize=110&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=%5B+SYSTEM+ONLINE+%5D++%E2%80%A2++wake+up...&descAlignY=62&descSize=20" />
-</div>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                        TERMINAL TYPING                               -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```bash
-> root@matrix:~$ whoami
-```
-
-<a href="https://github.com/IDONTSHOWSYFER">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&width=760&height=100&lines=%3E+Identity%3A+Syfer+%2F%2F+0x+%E2%80%94+ghost+in+the+shell;%3E+Mission%3A+Ship+code.+Stay+anon.+Break+systems." alt="Matrix Typing" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                          PROFILE / TERMINAL                          -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<table align="center">
-  <tr>
-    <td align="center" width="280">
-      <img src="https://github.com/IDONTSHOWSYFER.png" width="220" height="220" style="border-radius: 50%; border: 3px solid #00FF41;" alt="Syfer"/>
-      <br/>
-      <sub><b><code>📍 Neural &nbsp;∙&nbsp; 🛰️ ALWAYS ONLINE</code></b></sub>
-    </td>
-    <td width="500">
-
-```js
-const syfer = {
-  alias    : "0xSyfer",
-  role     : "Full-Stack Dev & Builder",
-  focus    : ["Web Apps", "Chrome Ext", "AI", "Web3"],
-  stack    : "React · TS · Node · Postgres · Docker",
-  building : "LamaLinkedIn  |  Lama Academy",
-  learning : "Distributed sys & LLM agents",
-  motto    : "Ship fast. Polish hard. Stay anon.",
-  status   : "🟢 online"
-};
-```
-
-  </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                            NETWORK                                   -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `> connect --network`
-
-<a href="https://x.com/0xSyfer" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=000000" />
-</a>
-<a href="https://www.linkedin.com/in/syfer/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" />
-</a>
-<a href="https://github.com/IDONTSHOWSYFER" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" />
-</a>
-<a href="https://discord.com/users/0xsyfer" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=000000" />
-</a>
-<a href="mailto:0xsyfer@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                             ARSENAL                                  -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `> arsenal --list`
-
-<table>
-<tr><td valign="top"><b>🟢 Languages</b></td><td>
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,python,bash,solidity&theme=dark" />
-</td></tr>
-<tr><td valign="top"><b>🟢 Frontend</b></td><td>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,redux,sass,figma&theme=dark" />
-</td></tr>
-<tr><td valign="top"><b>🟢 Backend</b></td><td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,redis,sqlite,mongodb&theme=dark" />
-</td></tr>
-<tr><td valign="top"><b>🟢 DevOps</b></td><td>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,nginx,git,github,linux,vscode&theme=dark" />
-</td></tr>
-<tr><td valign="top"><b>🟢 Extra</b></td><td>
-<img src="https://skillicons.dev/icons?i=stripe,openai,solana,cloudflare,postman,notion,discord&theme=dark" />
-</td></tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                              STATS                                   -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `> stats --user IDONTSHOWSYFER`
-
-<a href="https://github.com/IDONTSHOWSYFER">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IDONTSHOWSYFER&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/IDONTSHOWSYFER">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDONTSHOWSYFER&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&langs_count=8" />
-</a>
-
-<br/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=IDONTSHOWSYFER&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=008F11" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=IDONTSHOWSYFER&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                          CONTRIBUTION GRAPH                          -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `> graph --animate`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IDONTSHOWSYFER/IDONTSHOWSYFER/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IDONTSHOWSYFER/IDONTSHOWSYFER/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/IDONTSHOWSYFER/IDONTSHOWSYFER/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IDONTSHOWSYFER&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=003B00&title_color=00FF41&hide_border=true" width="95%" />
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                              BUILDS                                  -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `> ls -la ./builds`
-
-| project | description | stack |
-|---------|-------------|-------|
-| 🦙 [**LamaLinkedIn**](https://github.com/IDONTSHOWSYFER/LamaLinkedIn) | Chrome extension to power-up LinkedIn prospecting w/ AI | TS · React · Node · Prisma |
-| 🎌 [**WakuWaku**](https://github.com/IDONTSHOWSYFER/WakuWaku) | Manga library — track, search, collect | TypeScript |
-| 🌐 [**W3bCreation**](https://github.com/IDONTSHOWSYFER/W3bCreation) | Modern web-agency portfolio | JavaScript |
-| 💊 [**Lilpump**](https://github.com/IDONTSHOWSYFER/Lilpump) | Animated memecoin landing on Solana | HTML · CSS · JS |
-| ⛓️ [**WeatherAPI**](https://github.com/IDONTSHOWSYFER/WeatherAPI) | REST API for real-time weather data | Node · Express |
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                              QUOTE                                   -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `> echo $WISDOM`
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" />
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                            VISITORS                                  -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=IDONTSHOWSYFER&style=for-the-badge&color=00FF41&labelColor=000000&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/IDONTSHOWSYFER?style=for-the-badge&color=00FF41&labelColor=000000)
-![Stars](https://img.shields.io/github/stars/IDONTSHOWSYFER?style=for-the-badge&color=00FF41&labelColor=000000)
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                              FOOTER                                  -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:000000&height=140&section=footer&text=%5B+CONNECTION+TERMINATED+%5D&fontSize=22&fontColor=00FF41&animation=twinkling&fontAlignY=72" />
-</div>
+<p align="center"><b>I build open-source software: AI agents, MCP servers, 3D, on-chain tooling and developer tools.</b><br/>20 public repositories, each documented for people and for AI agents.</p>
 
 <p align="center">
-  <i><code>" Follow the white rabbit. " — <b>0xSyfer</b></code></i>
+<a href="https://github.com/idontshowsyfer?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/idontshowsyfer?style=for-the-badge&logo=github&label=followers"/></a>
+<a href="https://github.com/idontshowsyfer?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/idontshowsyfer?affiliations=OWNER&style=for-the-badge&logo=github&label=stars"/></a>
+<a href="https://github.com/idontshowsyfer?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-20-6250d6?style=for-the-badge&logo=github"/></a>
 </p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="20 repositories" src="./assets/stats-light.svg" width="100%"/></picture></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/planet-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/planet-light.svg"/><img alt="A rotating 3D planet with one point per repository" src="./assets/planet-light.svg" width="100%"/></picture></p>
+
+## Start here
+
+- [traceon](https://github.com/idontshowsyfer/traceon) ★10: Automated Telegram bot & Web3 data tracking platform integrated with local LLMs and real-time alerts.
+- [Front-Forge](https://github.com/idontshowsyfer/Front-Forge) ★8: High-performance WebAssembly front-end project built with Rust and the Yew framework.
+- [XActions](https://github.com/idontshowsyfer/XActions) ★5: ⚡ The Complete X/Twitter Automation Toolkit: Scrapers, CLI, browser scripts and automations.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/top-stars-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/top-stars-light.svg"/><img alt="The most-starred repositories on a log scale" src="./assets/top-stars-light.svg" width="100%"/></picture>
+
+## By the numbers
+
+Every chart below is rendered from the live GitHub listing each time the catalog is rebuilt, so the numbers are always current.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/city-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/city-light.svg"/><img alt="An isometric city with one tower per repository" src="./assets/city-light.svg" width="100%"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/growth-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/growth-light.svg"/><img alt="Cumulative repositories over time" src="./assets/growth-light.svg" width="100%"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg"/><img alt="A spinning 3D donut of primary languages" src="./assets/languages-light.svg" width="100%"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/punchcard-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/punchcard-light.svg"/><img alt="Punchcard of when repositories were created" src="./assets/punchcard-light.svg" width="100%"/></picture>
+
+## Find your way
+
+Use the repository topics on the left of any repo, or jump to a section below. Every repo ships clean documentation so a coding agent can pick it up cold.
+
+- [Web3 & Solana Tooling](#web3--solana-tooling) (5)
+- [AI Agents & Bots](#ai-agents--bots) (4)
+- [Rust & WebAssembly](#rust--webassembly) (3)
+- [Developer Utilities & Scripts](#developer-utilities--scripts) (8)
+
+## Web3 & Solana Tooling
+
+On-chain utilities, trading setups and decentralized tracking tools.
+
+<details open>
+<summary>5 repositories</summary>
+
+- [traceon](https://github.com/idontshowsyfer/traceon): Automated Telegram bot & Web3 data tracking platform integrated with local LLMs.
+- [solana-tools](https://github.com/idontshowsyfer/solana-tools): Smart contract interactions, token tracking and DEX mechanics utilities.
+- [web3-wallet-sync](https://github.com/idontshowsyfer/web3-wallet-sync): Hardware wallet helper scripts and secure connection flows.
+- [dex-analyzer](https://github.com/idontshowsyfer/dex-analyzer): Automated market data scrapers and liquidity pool analytics.
+- [token-tracker](https://github.com/idontshowsyfer/token-tracker): Real-time event monitor for token creation and volume spikes.
+
+</details>
+
+## AI Agents & Bots
+
+Autonomous agents, LLM integrations and communication bots.
+
+<details open>
+<summary>4 repositories</summary>
+
+- [telegram-bot-suite](https://github.com/idontshowsyfer/telegram-bot-suite): Modular framework for high-performance Telegram bots with command parsers.
+- [local-llm-bridge](https://github.com/idontshowsyfer/local-llm-bridge): Lightweight connector to query local models via custom pipelines.
+- [agent-automation](https://github.com/idontshowsyfer/agent-automation): Task execution loops and webhook listeners for autonomous workflows.
+- [chat-logger](https://github.com/idontshowsyfer/chat-logger): Structured logging and data extraction utility for conversational agents.
+
+</details>
+
+## Rust & WebAssembly
+
+High-performance tooling and front-end development using Rust.
+
+<details open>
+<summary>3 repositories</summary>
+
+- [Front-Forge](https://github.com/idontshowsyfer/Front-Forge): WebAssembly front-end architecture built with Yew and Cargo.
+- [rust-utils](https://github.com/idontshowsyfer/rust-utils): Collection of helper crates for fast data manipulation and parsing.
+- [wasm-boilerplate](https://github.com/idontshowsyfer/wasm-boilerplate): Quick-start template for high-speed client-side Rust applications.
+
+</details>
+
+## Developer Utilities & Scripts
+
+Automation scripts, configuration management, and developer tools.
+
+<details open>
+<summary>8 repositories</summary>
+
+- [XActions](https://github.com/idontshowsyfer/XActions): The complete automation toolkit: scrapers, CLI, and browser helper scripts.
+- [dotfiles](https://github.com/idontshowsyfer/dotfiles): macOS environment configuration, VS Code setup, and shell scripts.
+- [py-automation](https://github.com/idontshowsyfer/py-automation): Python data processing and workflow extraction scripts.
+- [api-gateway](https://github.com/idontshowsyfer/api-gateway): Lightweight REST API router with TypeScript and Zod validation.
+- [db-migrate](https://github.com/idontshowsyfer/db-migrate): Database management scripts for PostgreSQL and Prisma ORM.
+- [ci-pipelines](https://github.com/idontshowsyfer/ci-pipelines): Reusable GitHub Actions workflows for continuous integration.
+- [dev-logger](https://github.com/idontshowsyfer/dev-logger): Simple, colorful console logging utility for Node.js.
+- [quick-scrapper](https://github.com/idontshowsyfer/quick-scrapper): Minimalist web scraping script with fast response handling.
+
+</details>
